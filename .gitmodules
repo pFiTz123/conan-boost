@@ -73,3 +73,54 @@
 [submodule "coroutine"]
 	path = coroutine
 	url = git@github.com:pFiTz123/conan-boost_coroutine.git
+[submodule "predef"]
+	path = predef
+	url = git@github.com:pFiTz123/conan-boost_predef.git
+[submodule "preprocessor"]
+	path = preprocessor
+	url = git@github.com:pFiTz123/conan-boost_preprocessor.git
+[submodule "assert"]
+	path = assert
+	url = git@github.com:pFiTz123/conan-boost_assert.git
+[submodule "move"]
+	path = move
+	url = git@github.com:pFiTz123/conan-boost_move.git
+[submodule "concept_check"]
+	path = concept_check
+	url = git@github.com:pFiTz123/conan-boost_concept_check.git
+[submodule "container_hash"]
+	path = container_hash
+	url = git@github.com:pFiTz123/conan-boost_container_hash.git
+[submodule "integer"]
+	path = integer
+	url = git@github.com:pFiTz123/conan-boost_integer.git
+[submodule "iterator"]
+	path = iterator
+	url = git@github.com:pFiTz123/conan-boost_iterator.git
+[submodule "mpl"]
+	path = mpl
+	url = git@github.com:pFiTz123/conan-boost_mpl.git
+[submodule "detail"]
+	path = detail
+	url = git@github.com:pFiTz123/conan-boost_detail.git
+[submodule "type_index"]
+	path = type_index
+	url = git@github.com:pFiTz123/conan-boost_type_index.git
+[submodule "typeof"]
+	path = typeof
+	url = git@github.com:pFiTz123/conan-boost_typeof.git
+[submodule "level11group"]
+	path = level11group
+	url = git@github.com:pFiTz123/conan-boost_level11group.git
+[submodule "context"]
+	path = context
+	url = git@github.com:pFiTz123/conan-boost_context.git
+[submodule "thread"]
+	path = thread
+	url = git@github.com:pFiTz123/conan-boost_thread.git
+[submodule "ratio"]
+	path = ratio
+	url = git@github.com:pFiTz123/conan-boost_ratio.git
+[submodule "rational"]
+	path = rational
+	url = git@github.com:pFiTz123/conan-boost_rational.git
