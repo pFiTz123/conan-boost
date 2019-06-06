@@ -1,6 +1,3 @@
-[submodule "array"]
-	path = array
-	url = git@github.com:pFiTz123/conan-boost_array.git
 [submodule "asio"]
 	path = asio
 	url = git@github.com:pFiTz123/conan-boost_asio.git
@@ -28,15 +25,9 @@
 [submodule "core"]
 	path = core
 	url = git@github.com:pFiTz123/conan-boost_core.git
-[submodule "date_time"]
-	path = date_time
-	url = git@github.com:pFiTz123/conan-boost_date_time.git
 [submodule "endian"]
 	path = endian
 	url = git@github.com:pFiTz123/conan-boost_endian.git
-[submodule "function"]
-	path = function
-	url = git@github.com:pFiTz123/conan-boost_function.git
 [submodule "generator"]
 	path = generator
 	url = git@github.com:pFiTz123/conan-boost_generator.git
@@ -46,9 +37,6 @@
 [submodule "optional"]
 	path = optional
 	url = git@github.com:pFiTz123/conan-boost_optional.git
-[submodule "regex"]
-	path = regex
-	url = git@github.com:pFiTz123/conan-boost_regex.git
 [submodule "smart_ptr"]
 	path = smart_ptr
 	url = git@github.com:pFiTz123/conan-boost_smart_ptr.git
@@ -70,3 +58,18 @@
 [submodule "winapi"]
 	path = winapi
 	url = git@github.com:pFiTz123/conan-boost_winapi.git
+[submodule "array"]
+	path = array
+	url = git@github.com:pFiTz123/conan-boost_array.git
+[submodule "date_time"]
+	path = date_time
+	url = git@github.com:pFiTz123/conan-boost_date_time.git
+[submodule "function"]
+	path = function
+	url = git@github.com:pFiTz123/conan-boost_function.git
+[submodule "regex"]
+	path = regex
+	url = git@github.com:pFiTz123/conan-boost_regex.git
+[submodule "coroutine"]
+	path = coroutine
+	url = git@github.com:pFiTz123/conan-boost_coroutine.git
