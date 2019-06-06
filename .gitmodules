@@ -1,0 +1,72 @@
+[submodule "array"]
+	path = array
+	url = git@github.com:pFiTz123/conan-boost_array.git
+[submodule "asio"]
+	path = asio
+	url = git@github.com:pFiTz123/conan-boost_asio.git
+[submodule "base"]
+	path = base
+	url = git@github.com:pFiTz123/conan-boost_base.git
+[submodule "beast"]
+	path = beast
+	url = git@github.com:pFiTz123/conan-boost_beast.git
+[submodule "bind"]
+	path = bind
+	url = git@github.com:pFiTz123/conan-boost_bind.git
+[submodule "build"]
+	path = build
+	url = git@github.com:pFiTz123/conan-boost_build.git
+[submodule "chrono"]
+	path = chrono
+	url = git@github.com:pFiTz123/conan-boost_chrono.git
+[submodule "config"]
+	path = config
+	url = git@github.com:pFiTz123/conan-boost_config.git
+[submodule "container"]
+	path = container
+	url = git@github.com:pFiTz123/conan-boost_container.git
+[submodule "core"]
+	path = core
+	url = git@github.com:pFiTz123/conan-boost_core.git
+[submodule "date_time"]
+	path = date_time
+	url = git@github.com:pFiTz123/conan-boost_date_time.git
+[submodule "endian"]
+	path = endian
+	url = git@github.com:pFiTz123/conan-boost_endian.git
+[submodule "function"]
+	path = function
+	url = git@github.com:pFiTz123/conan-boost_function.git
+[submodule "generator"]
+	path = generator
+	url = git@github.com:pFiTz123/conan-boost_generator.git
+[submodule "intrusive"]
+	path = intrusive
+	url = git@github.com:pFiTz123/conan-boost_intrusive.git
+[submodule "optional"]
+	path = optional
+	url = git@github.com:pFiTz123/conan-boost_optional.git
+[submodule "regex"]
+	path = regex
+	url = git@github.com:pFiTz123/conan-boost_regex.git
+[submodule "smart_ptr"]
+	path = smart_ptr
+	url = git@github.com:pFiTz123/conan-boost_smart_ptr.git
+[submodule "static_assert"]
+	path = static_assert
+	url = git@github.com:pFiTz123/conan-boost_static_assert.git
+[submodule "system"]
+	path = system
+	url = git@github.com:pFiTz123/conan-boost_system.git
+[submodule "throw_exception"]
+	path = throw_exception
+	url = git@github.com:pFiTz123/conan-boost_throw_exception.git
+[submodule "type_traits"]
+	path = type_traits
+	url = git@github.com:pFiTz123/conan-boost_type_traits.git
+[submodule "utility"]
+	path = utility
+	url = git@github.com:pFiTz123/conan-boost_utility.git
+[submodule "winapi"]
+	path = winapi
+	url = git@github.com:pFiTz123/conan-boost_winapi.git
